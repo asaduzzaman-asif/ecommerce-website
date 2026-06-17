@@ -13,7 +13,7 @@ A modern and fully responsive **E-Commerce Landing Page** built using **HTML5, C
 
 ## 🌐 Live Demo
 
-<img width="1366" height="2267" alt="image" src="https://github.com/user-attachments/assets/a6118c76-65c1-4815-a412-3ee23dc1a670" />
+https://asaduzzaman-asif.github.io/ecommerce-website/
 
 
 
