@@ -6,7 +6,8 @@ A modern and fully responsive **E-Commerce Landing Page** built using **HTML5, C
 
 ## 📸 Project Preview
 
-[![ShopHub Preview](screenshot.png)](https://asaduzzaman-asif.github.io/ecommerce-website/)
+<img width="1366" height="2267" alt="image" src="https://github.com/user-attachments/assets/b949cce4-148b-4082-82d5-63bf33524f38" />
+
 
 ---
 
